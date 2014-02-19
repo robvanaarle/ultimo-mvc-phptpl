@@ -15,11 +15,11 @@ Template engine in PHP for Ultimo MVC
 ### Register plugin
 Ultimo MVC used a Viewrenderer based on Phptpl by default.
 
-### module/view/scripts/read.phtml
+### module/views/scripts/read.phtml
 	Hello <?php echo $this->escape($this->bar) ?>
 	Output of custom helper: <?php echo $this->fib(6) ?>
 
-### module/view/helpers/Fib.php
+### module/views/helpers/Fib.php
 	<?php
 	namespace \module\view\helpers;
 	

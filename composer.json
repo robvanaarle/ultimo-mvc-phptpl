@@ -1,5 +1,5 @@
 {
-    "name": "robvanaarle/ultimo-phptpl-mvc",
+    "name": "robvanaarle/ultimo-mvc-phptpl",
     "description": "Template engine in PHP for Ultimo MVC",
     "type": "library",
     "keywords": [

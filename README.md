@@ -1,4 +1,4 @@
-# Ultimo Phptpl MVC
+# Ultimo MVC Phptpl
 Template engine in PHP for Ultimo MVC
 
 ## Features
